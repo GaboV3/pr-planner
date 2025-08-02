@@ -1,0 +1,407 @@
+[
+    {
+        "folder_name": "adak",
+        "real_name": "Adak",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "albasrah",
+        "real_name": "Al Basrah",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "asad_khal",
+        "real_name": "Asad Khal",
+        "size": "1 km"
+    },
+    {
+        "folder_name": "ascheberg",
+        "real_name": "Ascheberg",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "assault_on_grozny",
+        "real_name": "Assault on Grozny",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "assault_on_mestia",
+        "real_name": "Assault on Mestia",
+        "size": "1 km"
+    },
+    {
+        "folder_name": "bamyan",
+        "real_name": "Bamyan",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "battle_of_debrecen",
+        "real_name": "Battle of Debrecen",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "battle_of_ia_drang",
+        "real_name": "Battle of Ia Drang",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "battle_of_kerch",
+        "real_name": "Battle of Kerch",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "beirut",
+        "real_name": "Beirut",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "belyaevo",
+        "real_name": "Belyaevo",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "black_gold",
+        "real_name": "Black Gold",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "brecourt_assault",
+        "real_name": "Brecourt Assault",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "burning_sands",
+        "real_name": "Burning Sands",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "carentan",
+        "real_name": "Carentan",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "charlies_point",
+        "real_name": "Charlies Point",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "donbas",
+        "real_name": "Donbas",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "dovre",
+        "real_name": "Dovre",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "dovre_winter",
+        "real_name": "Dovre Winter",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "dragon_fly",
+        "real_name": "Dragon Fly",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "fallujah_west",
+        "real_name": "Fallujah West",
+        "size": "1 km"
+    },
+    {
+        "folder_name": "fields_of_kassel",
+        "real_name": "Fields of Kassel",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "fools_road",
+        "real_name": "Fools Road",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "gaza",
+        "real_name": "Gaza",
+        "size": "1 km"
+    },
+    {
+        "folder_name": "goose_green",
+        "real_name": "Goose Green",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "grostok",
+        "real_name": "Grostok",
+        "size": "1 km"
+    },
+    {
+        "folder_name": "hades_peak",
+        "real_name": "Hades Peak",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "hill",
+        "real_name": "Hill 488",
+        "size": "1 km"
+    },
+    {
+        "folder_name": "iron_ridge",
+        "real_name": "Iron Ridge",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "kafar_halab",
+        "real_name": "Kafr Halab",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "karbala",
+        "real_name": "Karbala",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "kashan_desert",
+        "real_name": "Kashan Desert",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "khamisiyah",
+        "real_name": "Khamisiyah",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "kokan",
+        "real_name": "Kokan",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "korbach_offensive",
+        "real_name": "Korbach Offensive",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "korengal",
+        "real_name": "Korengal Valley",
+        "size": "1 km"
+    },
+    {
+        "folder_name": "kozelsk",
+        "real_name": "Kozelsk",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "krivaja_valley",
+        "real_name": "Krivaja Valley",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "kunar_province",
+        "real_name": "Kunar Province",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "lashkar_valley",
+        "real_name": "Lashkar Valley",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "masirah",
+        "real_name": "Masirah",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "merville",
+        "real_name": "Merville",
+        "size": "1 km"
+    },
+    {
+        "folder_name": "musa_qala",
+        "real_name": "Musa Qala",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "muttrah_city",
+        "real_name": "Muttrah City",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "nuijamaa",
+        "real_name": "Nuijamaa",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "omaha_beach",
+        "real_name": "Omaha Beach",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "op_barracuda",
+        "real_name": "Operation Barracuda",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "operation_bobcat",
+        "real_name": "Operation Bobcat",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "operation_brunswick",
+        "real_name": "Operation Brunswick",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "operation_falcon",
+        "real_name": "Operation Falcon",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "operation_marlin",
+        "real_name": "Operation Marlin",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "operation_soul_rebel",
+        "real_name": "Operation Soul Rebel",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "operation_thunder",
+        "real_name": "Operation Thunder",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "outpost",
+        "real_name": "Outpost",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "pavlovsk_bay",
+        "real_name": "Pavlovsk Bay",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "ramiel",
+        "real_name": "Ramiel",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "ras_el_masri",
+        "real_name": "Ras el Masri",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "reichswald",
+        "real_name": "Reichswald",
+        "size": "1 km"
+    },
+    {
+        "folder_name": "road_to_damascus",
+        "real_name": "Road to Damascus",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "route",
+        "real_name": "Route E-106",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "rzhev",
+        "real_name": "Rzhev",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "saaremaa",
+        "real_name": "Saaremaa",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "sahel",
+        "real_name": "Sahel",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "sbeneh_outskirts",
+        "real_name": "Sbeneh Outskirts",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "shahadah",
+        "real_name": "Shahadah",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "shijiavalley",
+        "real_name": "Shijia Valley",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "silent_eagle",
+        "real_name": "Silent Eagle",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "stalingrad",
+        "real_name": "Stalingrad",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "stalingrad_summer",
+        "real_name": "Stalingrad Summer",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "tad_sae",
+        "real_name": "Tad Sae Offensive",
+        "size": "1 km"
+    },
+    {
+        "folder_name": "the_falklands",
+        "real_name": "The Falklands",
+        "size": "8 km"
+    },
+    {
+        "folder_name": "ulyanovsk",
+        "real_name": "Ulyanovsk",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "vadso_city",
+        "real_name": "Vadso City",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "vung_ro",
+        "real_name": "Vung Ro",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "wanda_shan",
+        "real_name": "Wanda Shan",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "xiangshan",
+        "real_name": "Xiangshan",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "yamalia",
+        "real_name": "Yamalia",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "zakho",
+        "real_name": "Zakho",
+        "size": "2 km"
+    },
+    {
+        "folder_name": "test_airfield",
+        "real_name": "Test Airfield",
+        "size": "4 km"
+    },
+    {
+        "folder_name": "test_bootcamp",
+        "real_name": "Test Bootcamp",
+        "size": "1 km"
+    }
+]

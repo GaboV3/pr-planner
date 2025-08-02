@@ -3,6 +3,7 @@ const canvas = document.getElementById('map-canvas');
 const ctx = canvas.getContext('2d');
 const distanciaSpan = document.getElementById('distancia');
 const altitudeSpan = document.getElementById('altitude');
+const azimuteSpan = document.getElementById('azimute');
 const limparBtn = document.getElementById('limpar');
 const definirFixoBtn = document.getElementById('definir-fixo');
 const mapNameSpan = document.getElementById('map-name');
@@ -111,6 +112,7 @@ function limpar() {
     pontoSelecionado = null;
     distanciaSpan.textContent = '0';
     altitudeSpan.textContent = '0';
+    azimuteSpan.textContent = '0';
     atualizarInfoPontos();
     limparBtn.disabled = true;
     if (imagem && imagem.complete && imagem.naturalWidth > 0) {
@@ -247,6 +249,7 @@ async function carregarMapa(folder) {
     pontoSelecionado = null;
     distanciaSpan.textContent = '0';
     altitudeSpan.textContent = '0';
+    azimuteSpan.textContent = '0';
     atualizarInfoPontos();
     limparBtn.disabled = true;
     zoomLevel = 1;
@@ -292,6 +295,7 @@ function calcular() {
     if (!pontoSelecionado || !pontoFixo || !mapaAtual || !tiffImage || !tiffData) {
         distanciaSpan.textContent = '0';
         altitudeSpan.textContent = '0';
+        azimuteSpan.textContent = '0';
         return;
     }
     const p1 = pontoFixo;
@@ -302,6 +306,12 @@ function calcular() {
     let metrosPorPixel = sizeM / originalWidth;
     let distM = distPx * metrosPorPixel;
     distanciaSpan.textContent = distM.toFixed(1);
+    
+    const deltaX = p2.x - p1.x;
+    const deltaY = p1.y - p2.y;
+    let azimute = Math.atan2(deltaX, deltaY) * 180 / Math.PI;
+    if (azimute < 0) azimute += 360;
+    azimuteSpan.textContent = azimute.toFixed(1);
     try {
         let x1 = Math.floor(p1.x);
         let y1 = Math.floor(p1.y);

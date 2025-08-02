@@ -138,26 +138,29 @@ h1 {
     margin-bottom: 25px;
     border: 2px solid #0ea5e9;
     box-shadow: 0 0 20px rgba(14, 165, 233, 0.2);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
 
 .main-metric {
-    margin-bottom: 20px;
-}
-
-.main-metric:last-child {
-    margin-bottom: 0;
+    text-align: center;
+    padding: 15px;
+    background: #333333;
+    border-radius: 6px;
+    border: 1px solid #444;
 }
 
 .metric-label {
-    font-size: 11px;
+    font-size: 12px;
     font-weight: 700;
     color: #9ca3af;
     letter-spacing: 1px;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
 }
 
 .metric-value {
-    font-size: 2.5em;
+    font-size: 2.8em;
     font-weight: 700;
     color: #10b981;
     font-family: 'Courier New', monospace;
@@ -373,5 +376,22 @@ h1 {
     .app-icon {
         width: 40px;
         height: 40px;
+    }
+    
+    .main-results {
+        gap: 15px;
+        padding: 15px;
+    }
+    
+    .main-metric {
+        padding: 12px;
+    }
+    
+    .metric-value {
+        font-size: 2.4em;
+    }
+    
+    .metric-label {
+        font-size: 11px;
     }
 }
